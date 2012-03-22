@@ -7,11 +7,12 @@ print(?€œhello, Jimmy?€™s name?€);
 }
 
 function hello2() {
-print(?€œhello, member2?€™s name?€);
+
+print(â€œhello, Oscarâ€™s nameâ€);
 }
 
 function hello3() {
-  print(?€œhello, member2?€™s name?€);
+  print(â€œhello, watermanâ€™s nameâ€);
 }
 
 function main() {
