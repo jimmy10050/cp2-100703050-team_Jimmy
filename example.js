@@ -3,15 +3,15 @@
 # 99XXXXXX, 99XXXXXX, 99XXXXXX
 
 function hello1() {
-print(â€œhello, member1â€™s nameâ€);
+print(?€œhello, Jimmy?€™s name?€);
 }
 
 function hello2() {
-print(â€œhello, member2â€™s nameâ€);
+print(?€œhello, member2?€™s name?€);
 }
 
 function hello3() {
-  print(â€œhello, member2â€™s nameâ€);
+  print(?€œhello, member2?€™s name?€);
 }
 
 function main() {
